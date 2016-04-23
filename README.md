@@ -1,9 +1,4 @@
-[![Build Status](https://travis-ci.org/uptownhr/hackable.svg)](https://travis-ci.org/uptownhr/hackable)
-[![Dependency Status](https://david-dm.org/uptownhr/hackable.svg)](https://david-dm.org/uptownhr/hackable)
-[![devDependency Status](https://david-dm.org/uptownhr/hackable/dev-status.svg)](https://david-dm.org/uptownhr/hackable)
-[![Gitter chat](https://badges.gitter.im/uptownhr/hackable.png)](https://gitter.im/uptownhr/hackable)
-[![Coverage Status](https://coveralls.io/repos/github/uptownhr/hackable/badge.svg?branch=master)](https://coveralls.io/github/uptownhr/hackable?branch=master)
-
+1
 # hackable
 Personal site starter for express developers.
 
